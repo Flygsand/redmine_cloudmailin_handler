@@ -1,0 +1,9 @@
+= Redmine Cloudmailin handler plugin
+
+== Description
+This Redmine[http://www.redmine.org] plugin patches the default mail handler to work with Cloudmailin[http://cloudmailin.com].
+
+== Installation
+1. <tt>cd</tt> into the Redmine root directory
+2. Run <tt>ruby script/plugin install git://github.com/mtah/redmine_cloudmailin_handler.git</tt>
+3. Restart Redmine
